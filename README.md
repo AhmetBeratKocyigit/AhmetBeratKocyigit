@@ -6,7 +6,7 @@
 ### <div align="center">I'm Ahmet, a information technologies high school student 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/AhmetBeratKocyigit/github-profilinator)  
   
 
 - 🌱 I’m currently learning C# and TensorFlow  
