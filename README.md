@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h3 align="center">I'm Ahmet, a information technologies high school student 👨‍💻</h3>
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 - 🔭 I’m currently working on [MTCNN](https://github.com/AhmetBeratKocyigit/Yuz-Tanima)
 
 - 🌱 I’m currently learning **Tensorflow, C#**
