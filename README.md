@@ -1,8 +1,12 @@
-![MasterHead](https://cdn.vectorstock.com/i/preview-1x/14/95/banner-software-ui-and-development-for-different-vector-37731495.jpg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+</picture>
+
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h3 align="center">I'm Ahmet, a information technologies high school student 👨‍💻</h3>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 - 🔭 I’m currently working on [MTCNN](https://github.com/AhmetBeratKocyigit/Yuz-Tanima)
 
