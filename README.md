@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [MTCNN](https://github.com/AhmetBeratKocyigit/Yuz-Tanima)
 
-- 🌱 I’m currently learning **Tensorflow, C#**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **ahmetberatkocyigit@gmail.com**
 
