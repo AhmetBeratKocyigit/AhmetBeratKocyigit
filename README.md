@@ -8,19 +8,19 @@
 <h3 align="center">I'm Ahmet, a information technologies high school student 👨‍💻</h3>
 
 
-## About Me
+# About Me
 
 - 🎓 **Education**: High school student specializing in computer science.
 - 💻 **Experience**: I have developed projects in Python and C#, and I am currently learning Flutter and Ruby.
 - 🌱 **Areas of Interest**: Mobile app development, Desktop app development, Artificial intelligence...
 
 
-## Projects
+# Projects
 
 - [DroneKit](https://github.com/AhmetBeratKocyigit/DroneKit): Autonom Flight Software with DroneKit
 - [YoloV4](https://github.com/AhmetBeratKocyigit/YoloV4-Nesne-Tanima): Object Detection With YoloV4
 
-## Contact
+# Contact
 
 - 📧 **Email**: ahmetberatkocyigit@gmail.com
 - 🐦 **Twitter**: [1283Manas](https://github.com/AhmetBeratKocyigit/YoloV4-Nesne-Tanima)
