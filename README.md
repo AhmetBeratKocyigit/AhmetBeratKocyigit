@@ -10,7 +10,7 @@
 ---
 
 ### 🧠 About Me
-- 🎓 I’m a **high school student** specializing in **computer science and embedded systems**.  
+- 🎓 I’m a **high school student** specializing in **computer science**.  
 - 🧩 My interests include **drones**, **AI**, **image processing**, and **autonomous flight systems**.  
 - 💡 I love working on **real-world tech** that combines software and hardware.  
 ---
