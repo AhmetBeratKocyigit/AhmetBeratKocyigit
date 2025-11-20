@@ -17,6 +17,7 @@
 
 ### 🛩️ DroneKit Python Education Series
 🎥 **Complete step-by-step tutorial on autonomous drone control using DroneKit and MAVLink**  
+
 [![YouTube Playlist](https://img.shields.io/badge/YouTube-DroneKit%20Series-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/playlist?list=PLCZsL5gi451mkF55enJMbukiRzB57J8qv)
 
 > 🔧 Includes installation, setup, and flight mission programming.  
