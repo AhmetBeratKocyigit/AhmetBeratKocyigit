@@ -54,12 +54,18 @@
 
 ---
 
+### ✍️ Random Dev Quote
+<div align="center">
+
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
 
 ### 📊 GitHub Stats
 <div align="center">
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ahmetberatkocyigit&show_icons=true&theme=onedark" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetberatkocyigit&layout=compact&langs_count=8&theme=onedark" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetberatkocyigit&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmetberatkocyigit&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="ahmetberatkocyigit's GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetberatkocyigit&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="ahmetberatkocyigit's GitHub Stats" />
 
 </div>
