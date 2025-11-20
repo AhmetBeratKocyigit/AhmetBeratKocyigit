@@ -64,8 +64,8 @@
 ### 📊 GitHub Stats
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmetberatkocyigit&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="ahmetberatkocyigit's GitHub Stats" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ahmetberatkocyigit&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="ahmetberatkocyigit's GitHub Stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetberatkocyigit&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="ahmetberatkocyigit's GitHub Stats" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetberatkocyigit&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="ahmetberatkocyigit's GitHub Stats" />
 
 </div>
