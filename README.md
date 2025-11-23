@@ -27,17 +27,6 @@
 
 ---
 
-### 🧩 Featured Projects
-
-| Project | Description | Tech |
-|----------|--------------|------|
-| [**DroneKit-AutonomousFlight**](https://github.com/AhmetBeratKocyigit/DroneKit-AutonomousFlight) | Autonomous drone control scripts with MAVLink and GPS | Python, DroneKit |
-| [**Yuz-Tanima**](https://github.com/AhmetBeratKocyigit/Yuz-Tanima) | Face recognition with OpenCV | Python, OpenCV |
-| [**YOLOv4-ObjectDetection**](https://github.com/AhmetBeratKocyigit/YoloV4) | Object detection using YOLOv4 | Python, YOLOv4 |
-| [**Finger-Counter**](https://github.com/AhmetBeratKocyigit/python-finger-counter) | Hand and finger detection | Python, OpenCV |
-
----
-
 ### 🧰 Skills & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,qt,arduino,raspberrypi,opencv,tensorflow,flask,html,css,js,linux,git,vscode,bootstrap,ae,anaconda,androidstudio,django,dotnet,figma,firebase,flask,github,java,mysql,netlify,ps,qt,replit,tensorflow,unity,visualstudio" />
