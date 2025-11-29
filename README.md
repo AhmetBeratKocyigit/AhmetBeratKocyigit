@@ -29,7 +29,7 @@
 
 ### 🧰 Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,qt,arduino,raspberrypi,opencv,tensorflow,flask,html,css,js,linux,git,vscode,bootstrap,ae,anaconda,androidstudio,django,dotnet,figma,firebase,flask,github,java,mysql,netlify,ps,qt,replit,tensorflow,unity,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,qt,arduino,raspberrypi,opencv,tensorflow,flask,html,css,js,linux,git,vscode,bootstrap,ae,anaconda,androidstudio,django,dotnet,figma,firebase,github,java,mysql,netlify,ps,replit,tensorflow,unity,visualstudio" />
 </p>
 
 ---
