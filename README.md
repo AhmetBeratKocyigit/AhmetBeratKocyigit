@@ -58,3 +58,5 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetberatkocyigit&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="ahmetberatkocyigit's GitHub Stats" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BA68C8&height=90&section=footer"/>
