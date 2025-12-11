@@ -9,13 +9,13 @@
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 - 🎓 I’m a **high school student** specializing in **computer science**.  
 - 🧩 My interests include **drones**, **AI**, **image processing**, and **autonomous flight systems**.  
 - 💡 I love working on **real-world tech** that combines software and hardware.  
 ---
 
-### 🛩️ DroneKit Python Education Series
+## 🛩️ DroneKit Python Education Series
 🎥 **Complete step-by-step tutorial on autonomous drone control using DroneKit and MAVLink**  
 
 [![YouTube Playlist](https://img.shields.io/badge/YouTube-DroneKit%20Series-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/playlist?list=PLCZsL5gi451mkF55enJMbukiRzB57J8qv)
@@ -25,10 +25,10 @@
 
 ---
 
+## 🛠️ Tech Stack
+
 <div align="center">
-
-# 🛠️ Tech Stack
-
+  
 ### 🧩 Languages  
 <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,js" />
 
@@ -48,7 +48,7 @@
 
 ---
 
-### 🌍 Let's Connect
+## 🌍 Let's Connect
 
 <div align="center">
 
@@ -62,14 +62,14 @@
 
 </div>
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 <div align="center">
 
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <div align="center">
 
   ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=AhmetBeratKocyigit&theme=dark)
