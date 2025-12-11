@@ -27,10 +27,26 @@
 
 ---
 
-### 🧰 Skills & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,qt,arduino,raspberrypi,opencv,tensorflow,flask,html,css,js,linux,git,vscode,bootstrap,ae,anaconda,androidstudio,django,dotnet,figma,firebase,github,java,mysql,netlify,ps,replit,tensorflow,unity,visualstudio" />
-</p>
+<div align="center">
+
+# 🛠️ Tech Stack
+
+### 🧩 Languages  
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,js" />
+
+### 🚀 Frameworks & Libraries  
+<img src="https://skillicons.dev/icons?i=flask,django,opencv,tensorflow,qt,bootstrap,pytorch,unity" />
+
+### 🔧 Hardware & Embedded  
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+
+### 🖥️ Tools & Platforms  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,androidstudio,anaconda,replit,netlify" />
+
+### 🎨 Design  
+<img src="https://skillicons.dev/icons?i=figma,ps,ae" />
+
+</div>
 
 ---
 
