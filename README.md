@@ -23,8 +23,6 @@
 > 🔧 Includes installation, setup, and flight mission programming.  
 > 🛰️ Ideal for anyone who wants to build their own drone ground control or autonomous flight system.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhmetBeratKocyigit&repo=Dronekit)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 <div align="center">
