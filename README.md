@@ -76,5 +76,12 @@
 
 </div>
 
+---
+
+<div align="center">
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2mevvdd06yeq30e8rqbkiftn6&count=3)
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BA68C8&height=90&section=footer"/>
