@@ -13,9 +13,9 @@
 
 ---
 
-<br/>
+## 👨‍💻 About Me
 
-## 🧠 About Me
+<br/>
 
 - 🗺️ **Digital Humanities** — digital mapping, cultural heritage, and historical data
 - 💻 **Software Development** — data-driven applications, visualization, and open source
