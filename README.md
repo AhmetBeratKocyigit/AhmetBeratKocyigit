@@ -1,29 +1,38 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmetBeratKocyigit/AhmetBeratKocyigit/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmetBeratKocyigit/AhmetBeratKocyigit/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AhmetBeratKocyigit/AhmetBeratKocyigit/output/github-contribution-grid-snake.svg">
 </picture>
 
 <h1 align="center">👋 Hi, I'm Ahmet Berat Koçyiğit</h1>
-<h3 align="center">High school student passionate about drones, computer vision, and autonomous systems 🚀</h3>
+<h3 align="center">Software Developer · Digital Humanities Developer 🚀</h3>
+
+<p align="center">
+  I build software at the intersection of technology, culture, history, and the physical world.
+</p>
 
 ---
+
+<br/>
 
 ## 🧠 About Me
-- 🎓 I’m a **high school student** specializing in **computer science**.  
-- 🧩 My interests include **drones**, **AI**, **image processing**, and **autonomous flight systems**.  
-- 💡 I love working on **real-world tech** that combines software and hardware.  
----
 
-## 🛩️ DroneKit Python Education Series
-🎥 **Complete step-by-step tutorial on autonomous drone control using DroneKit and MAVLink**  
+- 🗺️ **Digital Humanities** — digital mapping, cultural heritage, and historical data
+- 💻 **Software Development** — data-driven applications, visualization, and open source
+- 🚁 **Autonomous Systems** — UAVs, computer vision, and autonomous flight
+- 🏛️ **Digital Heritage** — transforming historical and cultural knowledge into interactive experiences
 
-[![YouTube Playlist](https://img.shields.io/badge/YouTube-DroneKit%20Series-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/playlist?list=PLCZsL5gi451mkF55enJMbukiRzB57J8qv)
+<br/>
 
-> 🔧 Includes installation, setup, and flight mission programming.  
-> 🛰️ Ideal for anyone who wants to build their own drone ground control or autonomous flight system.
+## 🚀 Featured Projects & Open Source
 
----
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🗺️ **[CodyLingo](https://github.com/AhmetBeratKocyigit/codylingo)** | A Duolingo-style streak widget and SVG badge generator for GitHub profile. | `HTML` `GitHub` `JS` |
+| 📍 **[ChronoJSON](https://pypi.org/project/chronojson/)** | GeoJSON extension framework adding temporal history features to spatial data. | `Python` `PyPI` `GeoJSON` |
+| 🏷️ **[Stampified](https://github.com/AhmetBeratKocyigit)** | Web app converting social media music & location tags into digital stamps. | `JS` `HTML/CSS` `GitHub Pages` |
+
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -46,7 +55,7 @@
 
 </div>
 
----
+<br/>
 
 ## 🌍 Let's Connect
 
@@ -62,12 +71,17 @@
 
 </div>
 
-## ✍️ Random Dev Quote
-<div align="center">
+<br/>
 
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 🛩️ DroneKit Python Education Series
+🎥 **Complete step-by-step tutorial on autonomous drone control using DroneKit and MAVLink**  
 
-</div>
+[![YouTube Playlist](https://img.shields.io/badge/YouTube-DroneKit%20Series-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/playlist?list=PLCZsL5gi451mkF55enJMbukiRzB57J8qv)
+
+> 🔧 Includes installation, setup, and flight mission programming.  
+> 🛰️ Ideal for anyone who wants to build their own drone ground control or autonomous flight system.
+
+<br/>
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -76,7 +90,9 @@
 
 </div>
 
----
+<br/>
+
+## 🎧 Recently Played
 
 <div align="center">
 
