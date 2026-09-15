@@ -26,11 +26,60 @@
 
 ## 🚀 Featured Projects & Open Source
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🗺️ **[CodyLingo](https://github.com/AhmetBeratKocyigit/codylingo)** | A Duolingo-style streak widget and SVG badge generator for GitHub profile. | `HTML` `GitHub` `JS` |
-| 📍 **[ChronoJSON](https://pypi.org/project/chronojson/)** | GeoJSON extension framework adding temporal history features to spatial data. | `Python` `PyPI` `GeoJSON` |
-| 🏷️ **[Stampified](https://github.com/AhmetBeratKocyigit)** | Web app converting social media music & location tags into digital stamps. | `JS` `HTML/CSS` `GitHub Pages` |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <span style="color: #BA68C8;">◆</span>
+        <a href="https://github.com/AhmetBeratKocyigit/codylingo">CodyLingo</a>
+      </h3>
+      <p>A Duolingo-style streak widget and SVG badge generator for GitHub profile.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <span style="color: #BA68C8;">◆</span>
+        <a href="https://pypi.org/project/chronojson/">ChronoJSON</a>
+      </h3>
+      <p>GeoJSON extension framework adding temporal history features to spatial data.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyPI-3776AB?style=flat-square&logo=pypi&logoColor=white" />
+        <img src="https://img.shields.io/badge/GeoJSON-4A90E2?style=flat-square&logo=geojson&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <span style="color: #BA68C8;">◆</span>
+        <a href="https://github.com/stampified/stampified.github.io">Stampified</a>
+      </h3>
+      <p>Web app converting social media music & location tags into digital stamps.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML%2FCSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <span style="color: #BA68C8;">◆</span>
+        <a href="https://github.com/AhmetBeratKocyigit/Interactive-Digital-Atlas">Divânu Lugāti't-Türk Map</a>
+      </h3>
+      <p>Interactive digital atlas of Kaşgarlı Mahmud’s 11th-century Divânu Lugāti't-Türk map, rebuilt with modern web technologies (Leaflet.js).</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
