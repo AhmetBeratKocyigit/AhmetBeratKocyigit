@@ -132,7 +132,7 @@
 
 <br/>
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 <div align="center">
 
   ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=AhmetBeratKocyigit&theme=dark)
@@ -140,6 +140,8 @@
 </div>
 
 <br/>
+
+-->
 
 ## 🎧 Recently Played
 
